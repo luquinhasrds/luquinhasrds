@@ -2,13 +2,13 @@
 
 ### Olá! meu nome é Lucas Rosa Dos Santos
 
-[![Blog](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-rosa-dos-santos/)
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-rosa-dos-santos/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luquinhasrds&show_icons=true&theme=dracula)
+![luquinhas GitHub stats](https://github-readme-stats.vercel.app/api?username=luquinhasrds&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br)
 
 ## Tecnologias que mais uso
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luquinhasrds&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luquinhasrds&layout=donut&bg_color=282a36&text_color=FFFFFF&locale=pt-br&title_color=dd6387)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -18,4 +18,4 @@
     <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </div><br>
 
-## Estudante de Análise e Desenvolvimento de Sistemas.<br /><br /> Email para contato: lucas-rsantos@outlook.com
+## Estudante de analise e desenvolvimento de sistemas.<br /><br /> Email para contato: lucas-rsantos@outlook.com
