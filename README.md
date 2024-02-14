@@ -18,4 +18,4 @@
     <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </div><br>
 
-## Estudante de analise e desenvolvimento de sistemas.<br /><br /> Email para contato: lucas-rsantos@outlook.com
+## Estudante de Análise e Desenvolvimento de Sistemas.<br /><br /> Email para contato: lucas-rsantos@outlook.com
